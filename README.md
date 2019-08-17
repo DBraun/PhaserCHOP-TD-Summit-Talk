@@ -8,4 +8,4 @@ A typical definition of an easing function is a one-input function--usually cont
 ![](images/without_phase.gif)
 
 ### Build Info
-The toe file was saved with TouchDesigner Windows 2019.18360. You may need to compile the DLLs yourself and place them in the Plugins folder. They are from [github.com/DBraun/PhaserCHOP](github.com/DBraun/PhaserCHOP) and [github.com/DBraun/SmoothstepCHOP](github.com/DBraun/SmoothstepCHOP). 
+The toe file was saved with TouchDesigner Windows 2019.18360. You may need to compile the DLLs yourself and place them in the Plugins folder. They are from [github.com/DBraun/PhaserCHOP](http://github.com/DBraun/PhaserCHOP) and [github.com/DBraun/SmoothstepCHOP](http://github.com/DBraun/SmoothstepCHOP). 
